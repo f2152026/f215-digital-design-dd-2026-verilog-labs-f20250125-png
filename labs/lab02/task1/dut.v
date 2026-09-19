@@ -12,3 +12,4 @@ output Y
 mux_beh U1 (
 .I0(I0), .I1(I1), .S(S), .Y(Y)
 );
+endmodule

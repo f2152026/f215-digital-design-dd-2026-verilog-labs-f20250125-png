@@ -16,7 +16,6 @@ t_i0=0; t_i1=0; t_s=0;
 #5 t_i0=0; t_i1=0; t_s=1;
 #5 t_i0=0; t_i1=1; t_s=0;
 
-F215 Digital Design — Lab 2 | Page 3
 
 #5 t_i0=0; t_i1=1; t_s=1;
 #5 t_i0=1; t_i1=0; t_s=0;
